@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFishing", "AutoFishing.csproj", "{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Debug|x64.ActiveCfg = Debug|x64
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Debug|x64.Build.0 = Debug|x64
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Release|x64.ActiveCfg = Release|Any CPU
+		{B2A21DEC-CFB3-4AD3-B645-6495C4DBA67E}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9B2FCE-B807-4A18-9A91-0E85C7E7887D}
+	EndGlobalSection
+EndGlobal
