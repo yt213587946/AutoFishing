@@ -8,7 +8,7 @@ Fishing auto-complete.
 3. Create `Mods` folder (if missing)
 4. Extract zip to `Mods` folder
 5. Final path should contain all DLL files:
-Duckov_Data/Mods/BetterDuckov_v1.10/
+Duckov_Data/Mods/AutoFishing/
 - AutoFishing.dll
 - 0Harmony.dll
 - MonoMod.RuntimeDetour.dll
